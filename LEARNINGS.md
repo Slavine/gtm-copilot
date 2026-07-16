@@ -4,3 +4,4 @@
 - Branch = gefahrlose Parallelspur zum Ausprobieren.
 - uv/Git legte den Hauptbranch als 'master' an; mit git branch -M main' umbenannt, weil der Plan main erwartet.
 - conda / anaconda ist parallel aktiv
+- remote access etabliert, push & pull 
